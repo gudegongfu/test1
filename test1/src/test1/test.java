@@ -4,7 +4,7 @@ public class test {
 	public static void main(String[] args) {
 		//121212121212
 		
-		//121231231
+		System.out.println();
 	}
 
 }
